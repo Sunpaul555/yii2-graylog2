@@ -14,7 +14,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "graylog2/gelf-php": "~1.0"
+        "graylog2/gelf-php": "~2.0"
     },
     "autoload": {
         "psr-4": {
