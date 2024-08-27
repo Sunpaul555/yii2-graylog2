@@ -1,15 +1,15 @@
 {
-    "name": "sunpaul555/yii2-graylog2",
+    "name": "nex/yii2-graylog2",
     "type": "yii2-extension",
     "description": "Graylog2 log target for Yii2",
     "keywords": ["yii2", "extension", "log", "log target", "graylog", "graylog2", "gelf"],
-    "homepage": "https://github.com/Sunpaul555/yii2-graylog2",
+    "homepage": "https://github.com/RomeroMsk/yii2-graylog2",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Pavel Yudin",
-            "email": "pavel.yudin@gmail.com",
-            "homepage": "https://github.com/Sunpaul555"
+            "name": "Roman Ovchinnikov",
+            "email": "nex.software@gmail.com",
+            "homepage": "https://github.com/RomeroMsk"
         }
     ],
     "require": {
