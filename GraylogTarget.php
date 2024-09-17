@@ -78,7 +78,7 @@ class GraylogTarget extends Target
             $gelfMsg->setLevel(ArrayHelper::getValue($this->_levels, $level, LogLevel::INFO))
                 ->setTimestamp($timestamp)
                 //->setFacility($this->facility)
-                ->setAdditional('category', $category)
+                ->setAdditional('category', $category);
                 //->setFile('unknown')
                 //->setLine(0);
             // For string log message set only shortMessage
